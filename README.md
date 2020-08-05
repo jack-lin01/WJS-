@@ -9,7 +9,7 @@
 
 # 预览
 
-![1](C:\Users\CZL\Desktop\资料\git仓库\WJS-\1.png)
+![1](https://github.com/jack-lin01/WJS-/blob/master/1.png)
 
 ![2](C:\Users\CZL\Desktop\资料\git仓库\WJS-\2.png)
 
